@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Mobility",
+  "description": "Executive cross-border IT relocation and visa sponsorship workspace with AI resume diff tailoring and corridor eligibility auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
